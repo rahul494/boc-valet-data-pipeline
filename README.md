@@ -1,2 +1,2 @@
 # boc-valet-data-pipeline
-<img width="2816" height="1536" alt="BOC API Architecture Diagram" src="https://github.com/user-attachments/assets/027193d7-ec86-4427-b2a3-ee4889960a29" />
+<img width="834" height="456" alt="BoC Valet API Injestion drawio" src="https://github.com/user-attachments/assets/569bf4d4-6e79-4531-b5e2-6fc834192c4e" />
